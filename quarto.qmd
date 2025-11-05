@@ -3,3 +3,7 @@ title: "projet en puissance"
 format: html
 editor: visual
 ---
+
+```{r}
+x = cacabitch
+```
