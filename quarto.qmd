@@ -4,6 +4,3 @@ format: html
 editor: visual
 ---
 
-```{r}
-x = cacabitch
-```
