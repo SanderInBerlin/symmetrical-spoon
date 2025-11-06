@@ -6,7 +6,13 @@ editor: visual
 
 ## CECI EST MON TITRE ! oui oui et tchoupi mangent des gateaux avec sander 
 
-```{r}
 
+```{r}
+2+2 
 ```
+
+=======
+### la bonne combine pour s'attirer des femmes , c'etait pas du bucht. 
+
+NANA Rasputin, lui criait la tsarine, Moscou pas comme un prunier
 
