@@ -5,3 +5,8 @@ editor: visual
 ---
 
 ## CECI EST MON TITRE ! oui oui et tchoupi mangent des gateaux avec sander 
+
+```{r}
+
+```
+
